@@ -1,0 +1,9 @@
+{
+    "name": "user/vmc-dao-mini-project",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app/"
+        }
+    }
+}
